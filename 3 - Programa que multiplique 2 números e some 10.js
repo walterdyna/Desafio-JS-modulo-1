@@ -8,11 +8,11 @@ let multiplique = (20*30)+10
 
 const mult = (number1 * number2) + 10
 
-console.log = ((20*30) + 10)
+console.log((20*30) + 10)
 
-console.log = (multiplique)
+console.log(multiplique)
 
-console.log = ((number1 * number2) + 10)
+console.log((number1 * number2) + 10)
 
-console.log = (mult)
+console.log(mult)
 
