@@ -3,12 +3,11 @@
 let resultadoPor = 10
 let divida = 33
 
-const raizPor10e33 = 9^(1/2)
-
 const numeroDeRaiz = 9
 
-console.log(Math.sqrt(numeroDeRaiz,2)*10/33)
+const raizPor10e33 = Math.sqrt(numeroDeRaiz)
 
-// console.log((raizPor10e33) *10/33)
 
-console.log(raizPor10e33)
+console.log(Math.sqrt(numeroDeRaiz)*10/33)
+
+console.log((raizPor10e33) * 10 / 33)
