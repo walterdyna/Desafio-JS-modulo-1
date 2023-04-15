@@ -10,3 +10,6 @@ const nomeDiferentes = nome1!==nome2
 console.log(nomeIgual)
 
 console.log(nomeDiferentes)
+
+console.log(nome1!==nome1)
+console.log(nome1!==nome2)
