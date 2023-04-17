@@ -14,7 +14,7 @@ const namesEPartner = "Ola Meu nome e Alex e meu Partner do CodeClub e Quezia"
 const nome01 =`Alex` // usar CRASE
 const nome02 = `Quezia`
 
-const names = `Ola Meu nome e ${nome01} e meu Partner do CodeClub e ${nome02}`
+const names = `Ola Meu nome e ${nome01} e meu Partner do CodeClub e ${nome02}` // templet String
 
 console.log("Ola Meu nome e " + nome1 + " e Meu partner do CodeClub e " + nome2)
 
