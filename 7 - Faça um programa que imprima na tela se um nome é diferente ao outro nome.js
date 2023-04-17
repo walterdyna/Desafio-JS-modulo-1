@@ -13,3 +13,9 @@ console.log(nomeDiferentes)
 
 console.log(nome1!==nome1)
 console.log(nome1!==nome2)
+
+// Operador ==  ex: 5== "5" - true  - Numeros iguais forma diferentes
+// Operador === ex: 5==="5" - false - Numeros iguais forma diferentes
+
+// -------------------Operador Oposto-------------------------------
+// Operador !== ex: 5!=="5" Retorna True (verdadeiro) quando e diferente.
